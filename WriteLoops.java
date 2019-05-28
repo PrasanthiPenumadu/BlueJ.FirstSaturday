@@ -219,6 +219,7 @@ public class WriteLoops {
         sendEmergencyText("Help!", adminPhoneNumber);
         tryServerRestart("Help!", adminPhoneNumber);
     }
+    System.out.println(w);
         return w;
     }
 
